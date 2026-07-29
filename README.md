@@ -1,5 +1,6 @@
 # Customer Churn Analysis | Python 
 
+![Tittle Image](02_title.png)
 
 ## Overview
 
@@ -7,7 +8,6 @@ Customer churn is one of the biggest challenges for subscription-based businesse
 
 The analysis was performed using Python by cleaning the dataset, exploring customer demographics, analyzing service usage patterns, and visualizing customer behavior through various charts.
 
-![Sticky Notes](02_project_notes.png)
 ---
 
 # Business Problem
