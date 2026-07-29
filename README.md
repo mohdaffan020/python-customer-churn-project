@@ -1,11 +1,13 @@
 # Customer Churn Analysis | Python 
 
+
 ## Overview
 
 Customer churn is one of the biggest challenges for subscription-based businesses. Retaining existing customers is often more cost-effective than acquiring new ones. This project performs an **Exploratory Data Analysis (EDA)** on a telecom customer dataset to identify the key factors influencing customer churn and provide actionable business recommendations.
 
 The analysis was performed using Python by cleaning the dataset, exploring customer demographics, analyzing service usage patterns, and visualizing customer behavior through various charts.
 
+![Sticky Notes](02_project_notes.png)
 ---
 
 # Business Problem
