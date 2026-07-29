@@ -45,7 +45,7 @@ It includes:
 
 The complete Exploratory Data Analysis is available in the Jupyter Notebook.
 
-**Notebook:** [Customer_Churn_Analysis.ipynb](Notebook/Customer_Churn_Analysis.ipynb)
+**Notebook:** [Customer_Churn_Analysis.ipynb](01_Customer_Churn_Analysis.ipynb)
 
 ---
 
@@ -53,25 +53,25 @@ The complete Exploratory Data Analysis is available in the Jupyter Notebook.
 
 ### Customer Churn Distribution
 
-![Churn Distribution](Images/churn_distribution.png)
+![Churn Distribution](03_churn_distribution.png)
 
 ---
 
 ### Customer Retention by Tenure
 
-![Tenure Analysis](Images/tenure_analysis.png)
+![Tenure Analysis](04_retention_by_tenure.png)
 
 ---
 
 ### Contract Type 
 
-![Contract Analysis](Images/contract_analysis.png)
+![Contract Analysis](05_contract_type.png)
 
 ---
 
 ### Payment Method 
 
-![Payment Method](Images/payment_method.png)
+![Payment Method](06_payment_method.png)
 
 ---
 
